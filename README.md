@@ -1,5 +1,50 @@
-# 💫 About Me:
-# Hey, I'm Faiqa imtiaz<br><br>I'm a Software Engineering student who spends an unreasonable amount of time trying to figure out why my code doesn't work.<br><br>I enjoy building things, breaking things, fixing them, and occasionally pretending the bug was intentional.<br><br>## 🛠️ What I Use<br><br>**Languages:**<br>Java · JavaScript · TypeScript · Python · SQL<br><br>**Backend:**<br>Node.js · Express · REST APIs · PostgreSQL · Supabase<br><br>**Frontend:**<br>React · HTML · CSS<br><br>**Tools & Infrastructure:**<br>Git · GitHub · Docker · AWS · Vercel · Render<br><br>## 🧠 Currently Learning<br><br>* System Design<br>* Distributed Systems<br>* Backend Architecture<br>* Databases<br>* Cloud & DevOps<br>* DSA<br><br>Basically, I'm slowly replacing:<br><br>`"It works on my machine"`<br><br>with:<br><br>`"I know why it works."`<br><br>## 🔨 Some Things I've Built<br><br>* **Morsa** — A Morse code web app — convert, listen, train, and learn. Built with vanilla JS, Three.js particles, and a lavender glass UI<br>* **Path 2 Plate** — Food delivery application built with Java<br>* **Freelance Project Management System**<br>* **ResumeAI**<br>* Various smaller projects that started as "this will only take an hour"<br><br>It rarely takes an hour.<br><br>## 🎯 What I'm Trying to Become<br><br>A really good software engineer.<br><br>Not someone who knows 47 frameworks but can't explain what happens when they press Enter.<br><br>I want to understand the fundamentals well enough that learning another technology isn't a dramatic life event.<br><br>## 📚 Current Obsession<br><br>Learning how software behaves when things inevitably go wrong.<br><br>Caching.<br>Queues.<br>Retries.<br>Concurrency.<br>Distributed systems.<br>Databases.<br><br>You know, all the fun stuff.<br><br>## ⚡ Random Facts<br><br>* I like building things more than watching tutorials about building things.<br>* My projects tend to become significantly more complicated than originally planned.<br>* I have an unhealthy relationship with the terminal.<br>* `console.log()` has saved me more times than I'd like to admit.<br>* Still learning. Still breaking things. Still shipping.<br><br>---<br><br>### 🚧 Status<br><br>**Learning → Building → Breaking → Debugging → Repeat**<br>
+# About Me :)
+
+Hey, I'm Faiqa Imtiaz.
+
+I'm a Software Engineering student who spends a questionable amount of time figuring out why my code doesn't work.
+
+I like building things, breaking them, fixing them, and occasionally pretending the bug was intentional.
+
+## Tech
+
+**Languages:** Java · JavaScript · TypeScript · Python · SQL
+
+**Backend:** Node.js · Express · REST APIs · PostgreSQL · Supabase
+
+**Frontend:** React · HTML · CSS
+
+**Tools:** Git · GitHub · Docker · AWS · Vercel · Render
+
+## Currently Learning
+
+System Design · Distributed Systems · Backend Architecture · Databases · Cloud · DevOps · DSA
+
+Trying to replace "it works on my machine" with "I know why it works."
+
+## Projects
+
+**Morsa** — Morse code web app for converting, listening, training, and learning. Built with Vanilla JS and Three.js.
+
+**Path 2 Plate** — Food delivery application built with Java.
+
+**Freelance Project Management System**
+
+**ResumeAI**
+
+Most projects start with "this will only take an hour."
+
+It rarely does.
+
+## Goal
+
+Become a genuinely good software engineer who understands what's happening under the hood, not just someone who knows how to make things work.
+
+Learning → Building → Breaking → Debugging → Repeat
+
+## Fun Fact
+
+i love being humorous
 
 
 ## 🌐 Socials:
