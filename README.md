@@ -1,4 +1,4 @@
-<div align = "center">
+<div>
   
 ![snake gif](https://github.com/faiqaimtiaz207-ui/faiqaimtiaz207-ui/blob/output/github-snake.svg)
 
